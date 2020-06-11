@@ -1,0 +1,99 @@
+{
+    "data": {
+        "AI & MACHINE LEARNING": {
+            "title": "AI & MACHINE LEARNING",
+            "icon": {
+                "path": "/assets/images/build-tools.svg",
+                "alt": "AI & Machine Learning"
+            },
+            "description": "Intelligence and knowledge representation data and tools",
+            "topics": [
+                "ai",
+                "machine learning",
+                "predict",
+                "deep learning",
+                "face",
+                "iris",
+                "svc",
+                "classify"
+            ]
+        },
+        "BUILD TOOLS": {
+            "title": "BUILD TOOLS",
+            "icon": {
+                "path": "/assets/images/math.svg",
+                "alt": "Build Tools"
+            },
+            "description": "Source code building and deployment tools",
+            "topics": [
+                "build",
+                "tools",
+                "deploy",
+                "container",
+                "compiler",
+                "interpreter",
+                "cloud"
+            ]
+        },
+        "SCIENCE SOFTWARE": {
+            "title": "SCIENCE SOFTWARE",
+            "icon": {
+                "path": "/assets/images/data-manage.svg",
+                "alt": "Science Software"
+            },
+            "description": "Scientific experiments construction and management tools",
+            "topics": [
+                "science",
+                "software",
+                "program",
+                "tool"
+            ]
+        },
+        "SIMULATIONS": {
+            "title": "SIMULATIONS",
+            "icon": {
+                "path": "/assets/images/application.svg",
+                "alt": "Simulations"
+            },
+            "description": "Scientific simulations and modeling codes",
+            "topics": [
+                "simulation",
+                "model"
+
+            ]
+        },
+        "HPC & WORKFLOW": {
+            "title": "HPC & WORKFLOW",
+            "icon": {
+                "path": "/assets/images/prox-app.svg",
+                "alt": "HPC & Workflow"
+            },
+            "description": "Computing and scheduling optimization tools",
+            "topics": [
+                "hpc",
+                "workflow",
+                "cpu",
+                "gpu",
+                "scheduler"
+            ]
+        },
+        "VISUALIZATION": {
+            "title": "VISUALIZATION",
+            "icon": {
+                "path": "/assets/images/system-software.svg",
+                "alt": "Visualization"
+            },
+            "description": "visual rendering models and tools",
+            "topics": [
+                "visualization",
+                "1D",
+                "2D",
+                "3D",
+                "render",
+                "model",
+                "plot",
+                "graph"
+            ]
+        }
+    }
+}
