@@ -5,7 +5,7 @@ title: Code Portal
 description: "National Institute of Standards and Technology Opensource Code Portal "
 theme: nist-software-theme
 
-url: "https://nistgov.github.io/code-portal"
+url: "https://usnistgov.github.io/code-portal"
 repo_url: "https://github.com/usnistgov/code-portal"
 
 # Google Analytics ID
